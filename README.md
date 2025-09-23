@@ -19,7 +19,7 @@ I design and optimize enterprise-grade data systems, bridging legacy platforms w
 I am employed as a Data Engineer, building and maintaining pipelines that unify operational data, support financial forecasting, and feed enterprise reporting systems. My role blends DBA responsibilities with analytics and emerging AI/ML applications.
 
 ## Academic Path
-- B.S. in Computer Science (in progress)  
+- B.S. in Computer Science
 - Pursuing graduate studies in Data Science and Machine Learning, with a planned PhD focus on **quantum machine learning** and **quantum data engineering**.
 
 ---
