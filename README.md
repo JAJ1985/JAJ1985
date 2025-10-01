@@ -11,7 +11,7 @@ I design and optimize enterprise-grade data systems, bridging legacy platforms w
 
 ## Research Interests
 - Quantum-inspired algorithms for ETL and optimization
-- Quantum differential geometry as a framework for data spaces
+- Quantum differential geometry as a new framework for data spaces
 - Neural networks for predictive analytics in transportation and beyond
 - Formal verification methods (TLA+) for data pipeline reliability
 
